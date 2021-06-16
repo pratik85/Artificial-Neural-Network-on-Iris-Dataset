@@ -1,6 +1,3 @@
-# IRIS-ANN
-ANN on Iris Dataset
-
 
 #### Dataset Description:<br><br>
 Design a Neural Network on IRIS dataset using Feed Forward Neural Network consisting of an input layer L0 consisting of m nodes for m features, two hidden layers L1 and L2 consisting of n and p nodes respectively, and an output layer L3 consisting of k nodes for k classes. Use Softmax Activation Function as Activation Parameter and Categorical Cross-Entropy Loss as Loss Function Design a ANN Model.
