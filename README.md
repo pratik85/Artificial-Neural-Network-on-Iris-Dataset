@@ -24,16 +24,16 @@ Architecture:
 7. metrics: accuracy
 8. Number of Epochs: 200
 
-a. This ANN consists here are of four layer first and last layer is input and output layer and having two layer in middle which is h1,h2.
-b. The sequential model here will connect together a list of layers in order from first to last.
-c. Using argument units we define how many output we want.Here Lo(Input)consists of 4 nodes,the two hidden layer consists of node n=15 & p=8 and an output consists of k=3 nodes.
-d. Dense layers are connected by lines and planes so we need something non-linear which is called activation functions. 
-e. After definig a model adding a loss function and optimizer with the model.compile method.
+a. This ANN consists here are of four layer first and last layer is input and output layer and having two layer in middle which is h1,h2.<br>
+b. The sequential model here will connect together a list of layers in order from first to last.<br>
+c. Using argument units we define how many output we want.Here Lo(Input)consists of 4 nodes,the two hidden layer consists of node n=15 & p=8 and an output consists of k=3 nodes.<br>
+d. Dense layers are connected by lines and planes so we need something non-linear which is called activation functions.<br> 
+e. After definig a model adding a loss function and optimizer with the model.compile method.<br>
 
 
 Output:
 ANN Model was build has<br>
-Train Accuracy:0.9850
-Test Accuracy:0.97
-Train Loss:0.0415
-Test Loss:0.0860
+Train Accuracy:0.9850<br>
+Test Accuracy:0.97<br>
+Train Loss:0.0415<br>
+Test Loss:0.0860<br>
