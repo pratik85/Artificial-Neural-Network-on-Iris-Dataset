@@ -15,14 +15,14 @@ Expected Result:
 
 Architecture:
 
-Input Layer: Relu Activation
-1st Hidden Layer: Relu Activation
-2nd Hidden Layer: Relu Activation
-Output Layer: Softmax
-loss: Categorical Cross Entropy
-optimizer: Adam
-metrics: accuracy
-Number of Epochs: 200
+1. Input Layer: Relu Activation
+2. 1st Hidden Layer: Relu Activation
+3. 2nd Hidden Layer: Relu Activation
+4. Output Layer: Softmax
+5. loss: Categorical Cross Entropy
+6. optimizer: Adam
+7. metrics: accuracy
+8. Number of Epochs: 200
 
 a. This ANN consists here are of four layer first and last layer is input and output layer and having two layer in middle which is h1,h2.
 b. The sequential model here will connect together a list of layers in order from first to last.
@@ -32,7 +32,7 @@ e. After definig a model adding a loss function and optimizer with the model.com
 
 
 Output:
-ANN Model was build with 
+ANN Model was build has<br>
 Train Accuracy:0.9850
 Test Accuracy:0.97
 Train Loss:0.0415
